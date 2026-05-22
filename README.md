@@ -93,13 +93,15 @@ Built during my internship at KPMG India — a hybrid retrieval-generation chatb
 
 ## 📌 Research
 
+🔬 **Cross-Domain Medical Diagnosis with Explainable Deep Learning (CNN, XAI)**
+- Accepted at **UNI-TEAS 2026** (Springer LNNS, Scopus Indexed)
+- Built deep learning pipelines for cross-domain medical image classification with explainability
+
 🔬 **Comparing Vision Transformers and CNNs for Fine-Grained Animal Classification**
-- Accepted at the **13th International Conference on Microelectronics Circuits and Systems (MICRO 2026)**
-- Benchmarked ViTs vs CNNs across multiple evaluation dimensions for fine-grained classification
+- Accepted at **MICRO 2026** (13th International Conference on Microelectronics Circuits and Systems)
 
 🔬 **ML Models for Sentiment Analysis**
-- Co-authored peer-reviewed paper benchmarking Logistic Regression, XGBoost, and SVM on 50,000+ tweets
-- Achieved **92.6% accuracy** — highest among all tested models
+- Co-authored peer-reviewed paper · **92.6% accuracy** on 50,000+ tweets
 
 ---
 
