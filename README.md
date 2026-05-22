@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreya Ruhela ✨</h1>
+<h1 align="center">Hi, I'm Shreya Ruhela </h1>
 
 <p align="center">Welcome to my GitHub! 🚀</p>
 
