@@ -7,7 +7,6 @@ I'm a final-year B.Tech student (ECE with AI) at IGDTUW who loves building AI sy
 📍 Delhi, India
 🎓 IGDTUW — ECE with AI, Class of 2026
 🧠 ML · GenAI · Computer Vision · Full-Stack AI Apps
-📄 Published at MICRO 2026
 
 ---
 
